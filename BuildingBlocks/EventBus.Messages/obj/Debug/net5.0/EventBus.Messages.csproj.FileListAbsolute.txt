@@ -1,0 +1,11 @@
+H:\DemoCode\asp-microservices\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.deps.json
+H:\DemoCode\asp-microservices\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.dll
+H:\DemoCode\asp-microservices\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.pdb
+H:\DemoCode\asp-microservices\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.GeneratedMSBuildEditorConfig.editorconfig
+H:\DemoCode\asp-microservices\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.AssemblyInfoInputs.cache
+H:\DemoCode\asp-microservices\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.AssemblyInfo.cs
+H:\DemoCode\asp-microservices\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.csproj.CoreCompileInputs.cache
+H:\DemoCode\asp-microservices\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.dll
+H:\DemoCode\asp-microservices\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\refint\EventBus.Messages.dll
+H:\DemoCode\asp-microservices\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.pdb
+H:\DemoCode\asp-microservices\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\ref\EventBus.Messages.dll

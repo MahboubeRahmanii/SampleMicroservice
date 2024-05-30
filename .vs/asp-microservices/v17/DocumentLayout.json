@@ -1,0 +1,683 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\DemoCode\\asp-microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ED0277-A299-4204-B42A-B178A8EBB4C7}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.infrastructure\\persistence\\ordercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ED0277-A299-4204-B42A-B178A8EBB4C7}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\persistence\\ordercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ED0277-A299-4204-B42A-B178A8EBB4C7}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.infrastructure\\persistence\\ordercontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ED0277-A299-4204-B42A-B178A8EBB4C7}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\persistence\\ordercontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ED0277-A299-4204-B42A-B178A8EBB4C7}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ED0277-A299-4204-B42A-B178A8EBB4C7}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ED0277-A299-4204-B42A-B178A8EBB4C7}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.infrastructure\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ED0277-A299-4204-B42A-B178A8EBB4C7}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ED0277-A299-4204-B42A-B178A8EBB4C7}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ED0277-A299-4204-B42A-B178A8EBB4C7}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ED0277-A299-4204-B42A-B178A8EBB4C7}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.infrastructure\\persistence\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ED0277-A299-4204-B42A-B178A8EBB4C7}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\persistence\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ED0277-A299-4204-B42A-B178A8EBB4C7}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.infrastructure\\migrations\\ordercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ED0277-A299-4204-B42A-B178A8EBB4C7}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\migrations\\ordercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7ED0277-A299-4204-B42A-B178A8EBB4C7}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.infrastructure\\mail\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7ED0277-A299-4204-B42A-B178A8EBB4C7}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\mail\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148032E0-DDBD-46E5-83E0-F025D0333A97}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148032E0-DDBD-46E5-83E0-F025D0333A97}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148032E0-DDBD-46E5-83E0-F025D0333A97}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.domain\\common\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148032E0-DDBD-46E5-83E0-F025D0333A97}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\common\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148032E0-DDBD-46E5-83E0-F025D0333A97}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148032E0-DDBD-46E5-83E0-F025D0333A97}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\features\\orders\\queries\\getorderslist\\ordersvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\features\\orders\\queries\\getorderslist\\ordersvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\features\\orders\\queries\\getorderslist\\getorderslistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\features\\orders\\queries\\getorderslist\\getorderslistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\features\\orders\\queries\\getorderslist\\getorderslistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\features\\orders\\queries\\getorderslist\\getorderslistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\features\\orders\\commands\\updateorder\\updateordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\features\\orders\\commands\\updateorder\\updateordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\features\\orders\\commands\\updateorder\\updateordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\features\\orders\\commands\\updateorder\\updateordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\features\\orders\\commands\\updateorder\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\features\\orders\\commands\\updateorder\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\features\\orders\\commands\\deleteorder\\deleteordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\features\\orders\\commands\\deleteorder\\deleteordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\features\\orders\\commands\\deleteorder\\deleteordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\features\\orders\\commands\\deleteorder\\deleteordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\features\\orders\\commands\\checkoutorder\\checkoutordercommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\features\\orders\\commands\\checkoutorder\\checkoutordercommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\features\\orders\\commands\\checkoutorder\\checkoutordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\features\\orders\\commands\\checkoutorder\\checkoutordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\features\\orders\\commands\\checkoutorder\\checkoutordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\features\\orders\\commands\\checkoutorder\\checkoutordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\contracts\\persistence\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\contracts\\persistence\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\contracts\\persistence\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\contracts\\persistence\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\contracts\\infrastructure\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\contracts\\infrastructure\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.application\\behaviours\\unhandledexceptionbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3A5EAD-9883-4700-8C66-CEF3A7BFA0FC}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\behaviours\\unhandledexceptionbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADDA80D-25A6-4E46-BBB7-B80608D958AE}|Services\\Ordering\\Ordering.Api\\Ordering.Api.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADDA80D-25A6-4E46-BBB7-B80608D958AE}|Services\\Ordering\\Ordering.Api\\Ordering.Api.csproj|solutionrelative:services\\ordering\\ordering.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADDA80D-25A6-4E46-BBB7-B80608D958AE}|Services\\Ordering\\Ordering.Api\\Ordering.Api.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADDA80D-25A6-4E46-BBB7-B80608D958AE}|Services\\Ordering\\Ordering.Api\\Ordering.Api.csproj|solutionrelative:services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADDA80D-25A6-4E46-BBB7-B80608D958AE}|Services\\Ordering\\Ordering.Api\\Ordering.Api.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0ADDA80D-25A6-4E46-BBB7-B80608D958AE}|Services\\Ordering\\Ordering.Api\\Ordering.Api.csproj|solutionrelative:services\\ordering\\ordering.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADDA80D-25A6-4E46-BBB7-B80608D958AE}|Services\\Ordering\\Ordering.Api\\Ordering.Api.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.api\\mapping\\orderingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADDA80D-25A6-4E46-BBB7-B80608D958AE}|Services\\Ordering\\Ordering.Api\\Ordering.Api.csproj|solutionrelative:services\\ordering\\ordering.api\\mapping\\orderingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADDA80D-25A6-4E46-BBB7-B80608D958AE}|Services\\Ordering\\Ordering.Api\\Ordering.Api.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.api\\extensions\\hostextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADDA80D-25A6-4E46-BBB7-B80608D958AE}|Services\\Ordering\\Ordering.Api\\Ordering.Api.csproj|solutionrelative:services\\ordering\\ordering.api\\extensions\\hostextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADDA80D-25A6-4E46-BBB7-B80608D958AE}|Services\\Ordering\\Ordering.Api\\Ordering.Api.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.api\\eventbusconsumer\\basketcheckoutconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADDA80D-25A6-4E46-BBB7-B80608D958AE}|Services\\Ordering\\Ordering.Api\\Ordering.Api.csproj|solutionrelative:services\\ordering\\ordering.api\\eventbusconsumer\\basketcheckoutconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADDA80D-25A6-4E46-BBB7-B80608D958AE}|Services\\Ordering\\Ordering.Api\\Ordering.Api.csproj|h:\\democode\\asp-microservices\\services\\ordering\\ordering.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADDA80D-25A6-4E46-BBB7-B80608D958AE}|Services\\Ordering\\Ordering.Api\\Ordering.Api.csproj|solutionrelative:services\\ordering\\ordering.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAiwAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:13:46.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:13:42.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InfrastructureServiceRegistration.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:13:36.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderContextSeed.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\OrderContextSeed.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Persistence\\OrderContextSeed.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\OrderContextSeed.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Persistence\\OrderContextSeed.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:13:12.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderContextFactory.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\OrderContextFactory.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Persistence\\OrderContextFactory.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\OrderContextFactory.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Persistence\\OrderContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:13:05.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\OrderContext.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Persistence\\OrderContext.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Infrastructure\\Persistence\\OrderContext.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Persistence\\OrderContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:13:03.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderContextModelSnapshot.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Infrastructure\\Migrations\\OrderContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Migrations\\OrderContextModelSnapshot.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Infrastructure\\Migrations\\OrderContextModelSnapshot.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Migrations\\OrderContextModelSnapshot.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:12:54.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Infrastructure\\Mail\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Mail\\EmailService.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Infrastructure\\Mail\\EmailService.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Mail\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:12:47.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Entities\\Order.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:12:36.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Domain\\Common\\ValueObject.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Common\\ValueObject.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Domain\\Common\\ValueObject.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Common\\ValueObject.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA8wCwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:12:25.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Domain\\Common\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Common\\EntityBase.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Domain\\Common\\EntityBase.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Common\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:12:19.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\ApplicationServiceRegistration.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\ApplicationServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:12:09.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Email.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Models\\Email.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Models\\Email.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Models\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:11:37.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:11:28.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrdersVm.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Queries\\GetOrdersList\\OrdersVm.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Queries\\GetOrdersList\\OrdersVm.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Queries\\GetOrdersList\\OrdersVm.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Queries\\GetOrdersList\\OrdersVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:11:17.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetOrdersListQueryHandler.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Queries\\GetOrdersList\\GetOrdersListQueryHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Queries\\GetOrdersList\\GetOrdersListQueryHandler.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Queries\\GetOrdersList\\GetOrdersListQueryHandler.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Queries\\GetOrdersList\\GetOrdersListQueryHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:11:09.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetOrdersListQuery.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Queries\\GetOrdersList\\GetOrdersListQuery.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Queries\\GetOrdersList\\GetOrdersListQuery.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Queries\\GetOrdersList\\GetOrdersListQuery.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Queries\\GetOrdersList\\GetOrdersListQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:11:02.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateOrderCommandValidator.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommandValidator.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommandValidator.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommandValidator.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:10:53.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateOrderCommandHandler.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommandHandler.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommandHandler.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommandHandler.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADwvygAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:10:41.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateOrderCommand.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:10:37.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteOrderCommandHandler.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommandHandler.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommandHandler.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommandHandler.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:10:21.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteOrderCommand.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:10:15.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CheckoutOrderCommandValidation.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\CheckoutOrder\\CheckoutOrderCommandValidation.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\CheckoutOrder\\CheckoutOrderCommandValidation.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\CheckoutOrder\\CheckoutOrderCommandValidation.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\CheckoutOrder\\CheckoutOrderCommandValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:10:07.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CheckoutOrderCommandHandler.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\CheckoutOrder\\CheckoutOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\CheckoutOrder\\CheckoutOrderCommandHandler.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\CheckoutOrder\\CheckoutOrderCommandHandler.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\CheckoutOrder\\CheckoutOrderCommandHandler.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADwvwgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:09:51.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CheckoutOrderCommand.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\CheckoutOrder\\CheckoutOrderCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\CheckoutOrder\\CheckoutOrderCommand.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\CheckoutOrder\\CheckoutOrderCommand.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Features\\Orders\\Commands\\CheckoutOrder\\CheckoutOrderCommand.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:09:45.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Exceptions\\ValidationException.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Exceptions\\ValidationException.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvwQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:09:30.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:09:23.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Contracts\\Persistence\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Contracts\\Persistence\\IOrderRepository.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Contracts\\Persistence\\IOrderRepository.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Contracts\\Persistence\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:09:14.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Contracts\\Persistence\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Contracts\\Persistence\\IAsyncRepository.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Contracts\\Persistence\\IAsyncRepository.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Contracts\\Persistence\\IAsyncRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:09:09.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Contracts\\Infrastructure\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Contracts\\Infrastructure\\IEmailService.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Contracts\\Infrastructure\\IEmailService.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Contracts\\Infrastructure\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:09:03.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ValidationBehaviour.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Behaviours\\ValidationBehaviour.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Behaviours\\ValidationBehaviour.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:08:53.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UnhandledExceptionBehaviour.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Behaviours\\UnhandledExceptionBehaviour.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Behaviours\\UnhandledExceptionBehaviour.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Application\\Behaviours\\UnhandledExceptionBehaviour.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Behaviours\\UnhandledExceptionBehaviour.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvwIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:08:46.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Api\\Startup.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Api\\Startup.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Api\\Startup.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:08:38.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Api\\Program.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Api\\Program.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Api\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:08:35.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Api\\appsettings.Development.json",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T12:08:33.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderingProfile.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Api\\Mapping\\OrderingProfile.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Api\\Mapping\\OrderingProfile.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Api\\Mapping\\OrderingProfile.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Api\\Mapping\\OrderingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:08:31.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HostExtensions.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Api\\Extensions\\HostExtensions.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Api\\Extensions\\HostExtensions.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Api\\Extensions\\HostExtensions.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Api\\Extensions\\HostExtensions.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:08:25.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BasketCheckoutConsumer.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Api\\EventBusConsumer\\BasketCheckoutConsumer.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Api\\EventBusConsumer\\BasketCheckoutConsumer.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Api\\EventBusConsumer\\BasketCheckoutConsumer.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Api\\EventBusConsumer\\BasketCheckoutConsumer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:08:20.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Api\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Api\\Controllers\\OrderController.cs",
+              "ToolTip": "H:\\DemoCode\\asp-microservices\\Services\\Ordering\\Ordering.Api\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Api\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:08:13.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

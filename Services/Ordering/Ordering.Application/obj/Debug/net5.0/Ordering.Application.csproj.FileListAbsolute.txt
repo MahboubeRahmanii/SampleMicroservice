@@ -1,0 +1,15 @@
+H:\DemoCode\asp-microservices\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.deps.json
+H:\DemoCode\asp-microservices\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.dll
+H:\DemoCode\asp-microservices\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.pdb
+H:\DemoCode\asp-microservices\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Domain.dll
+H:\DemoCode\asp-microservices\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Domain.pdb
+H:\DemoCode\asp-microservices\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csproj.AssemblyReference.cache
+H:\DemoCode\asp-microservices\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\DemoCode\asp-microservices\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.AssemblyInfoInputs.cache
+H:\DemoCode\asp-microservices\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.AssemblyInfo.cs
+H:\DemoCode\asp-microservices\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csproj.CoreCompileInputs.cache
+H:\DemoCode\asp-microservices\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.dll
+H:\DemoCode\asp-microservices\Services\Ordering\Ordering.Application\obj\Debug\net5.0\refint\Ordering.Application.dll
+H:\DemoCode\asp-microservices\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.pdb
+H:\DemoCode\asp-microservices\Services\Ordering\Ordering.Application\obj\Debug\net5.0\ref\Ordering.Application.dll
+H:\DemoCode\asp-microservices\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.50CBBEA9.Up2Date
